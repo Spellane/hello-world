@@ -1,2 +1,2 @@
 # hello-world
-training repsoitory
+training repo
